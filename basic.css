@@ -12,8 +12,8 @@
   }
   
   .choice {
-    height: 165px;
-    width: 165px;
+    height: 30%;
+    width: 30%;
     border-radius: 50%;
     display: flex;
     justify-content: center;
@@ -26,8 +26,8 @@
   }
   
   img {
-    height: 150px;
-    width: 150px;
+    height: 20rem;
+    width: 20rem;
     object-fit: cover;
     border-radius: 50%;
   }
